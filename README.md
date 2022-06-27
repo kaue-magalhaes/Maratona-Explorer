@@ -11,7 +11,7 @@
 
 <h2>💡Event</h2>
 <p>
-  <strong>Maratona Explorer</strong> is an event created by <a href="https://www.rocketseat.com.br/">Rockeseat</a>, taught by Mayk Brito, that lasted from the 6th to the 13th of June to help those who are starting in the world of programming.
+  <strong>Maratona Explorer</strong> is an event created by <a href="https://www.rocketseat.com.br/">Rocketseat</a>, taught by Mayk Brito, that lasted from the 6th to the 13th of June to help those who are starting in the world of programming.
 </p>
 <p>
   In it, participants learn a little about HTML, CSS and Javascript, which are fundamental technologies for Web Development, and, at the end of the event, each participant has with them a small project to use as a portfolio.
