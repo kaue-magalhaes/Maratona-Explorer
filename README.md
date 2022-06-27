@@ -62,9 +62,6 @@
 ```star
 # Clone this repository
 
-# Access project folders
-/revelar-destino
-
 # install the dependencies
 npm install or yarn
 
